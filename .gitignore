@@ -1,0 +1,20 @@
+# Gradle
+.gradle/
+build/
+release/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# IDE-independent
+*.class
+*.log
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+*.war
+*.ear
+
+# Operating System Files
+.DS_Store
+Thumbs.db
